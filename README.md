@@ -1,3 +1,5 @@
+[![Gráfico de Atividade do Hebert](https://github-readme-activity-graph.vercel.app/graph?username=2005HAK&bg_color=0D1117&color=005B9F&line=005B9F&point=FFFFFF&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hebert-kubis-114048218/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hebert__kubis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HebertKubis) 
 
