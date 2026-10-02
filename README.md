@@ -9,7 +9,7 @@
 **Sistemas Embarcados & Eletrônica**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![KiCad](https://img.shields.io/badge/KiCad-%23FFFFFF.svg?style=for-the-badge&logo=kicad&logoColor=black)
 
-**Automação Industrial**  
+**Automação Industrial**  *(Básico)*  
 ![Ladder](https://img.shields.io/badge/Ladder-%23005B9F.svg?style=for-the-badge) ![SFC](https://img.shields.io/badge/SFC_(Grafcet)-%23005B9F.svg?style=for-the-badge) ![Texto Estruturado](https://img.shields.io/badge/Texto_Estruturado-%23005B9F.svg?style=for-the-badge)
 
 **Infraestrutura & Redes**  
